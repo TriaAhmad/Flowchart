@@ -1,5 +1,96 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1" pages="4">
-  <diagram name="KerangkaPemikiran" id="NgKFbQddlrHaXCtiKRHu">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1" pages="5">
+  <diagram id="PuGLmIodn0HzzErFTLfB" name="StrukturOrganisasi">
+    <mxGraphModel dx="1042" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7obqjvVYONM_SWDKaIId-16" edge="1" parent="1" source="7obqjvVYONM_SWDKaIId-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7obqjvVYONM_SWDKaIId-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-17" edge="1" parent="1" source="7obqjvVYONM_SWDKaIId-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7obqjvVYONM_SWDKaIId-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-18" edge="1" parent="1" source="7obqjvVYONM_SWDKaIId-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7obqjvVYONM_SWDKaIId-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-19" edge="1" parent="1" source="7obqjvVYONM_SWDKaIId-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7obqjvVYONM_SWDKaIId-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-20" edge="1" parent="1" source="7obqjvVYONM_SWDKaIId-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="7obqjvVYONM_SWDKaIId-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-22" edge="1" parent="1" source="7obqjvVYONM_SWDKaIId-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="7obqjvVYONM_SWDKaIId-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-24" edge="1" parent="1" source="7obqjvVYONM_SWDKaIId-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="7obqjvVYONM_SWDKaIId-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-25" edge="1" parent="1" source="7obqjvVYONM_SWDKaIId-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="7obqjvVYONM_SWDKaIId-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="440" />
+              <mxPoint x="690" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-28" edge="1" parent="1" source="7obqjvVYONM_SWDKaIId-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7obqjvVYONM_SWDKaIId-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="390" />
+              <mxPoint x="310" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Direktur&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Wakil Direktur&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Bidang Akademik dan Perencanaan&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Wakil Direktur&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Bidang Keuangan dan Umum&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Wakil Direktur&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Bidang Kerja Sama&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Wakil Direktur&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Bidang Kemahasiswaan dan Alumni&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Satuan Pengawas&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Iternal&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pusat Penjaminan&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Mutu&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;dan Pengembangan Pembelajaran&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pusat Penelitian dan&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Pengabdian Kepada&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Masyarakat&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-26" edge="1" parent="1" source="7obqjvVYONM_SWDKaIId-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7obqjvVYONM_SWDKaIId-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Bagian Akademik dan&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Kemahasiswaan&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-27" edge="1" parent="1" source="7obqjvVYONM_SWDKaIId-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7obqjvVYONM_SWDKaIId-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Bagian Keuangan dan&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Umum&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Subbagian Akademik&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="7obqjvVYONM_SWDKaIId-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Subbagian Umum&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="560" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="KerangkaPemikiran" id="jjQaXFsyZNCKTL_DoSl0">
     <mxGraphModel dx="1892" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -131,7 +222,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="6oG6REOqOqjKt46jKe0H" name="ProsedurPencatatanJadwal">
+  <diagram name="ProsedurPencatatanJadwal" id="fuIozGkuEfzTS-IkBMAG">
     <mxGraphModel dx="1042" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -227,7 +318,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="aLDaQhppHUFEV_aKSlzJ" name="ProsedurPengajuanEvent">
+  <diagram name="ProsedurPengajuanEvent" id="cUEKizfmcwhL1S3oYzN3">
     <mxGraphModel dx="1042" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -315,22 +406,25 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ESYOLSn6PXzRxt0x__TK" name="ProsedurPembaruanJadwalEvent">
-    <mxGraphModel dx="1042" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram name="ProsedurPembaruanJadwalEvent" id="2sd7msH08mhYDK1MKvjd">
+    <mxGraphModel dx="1489" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rU81zAQizeKF4AsqApup-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Prosedur Pengajuan Event&lt;/font&gt;" vertex="1">
-          <mxGeometry height="900" width="810" x="110" y="70" as="geometry" />
+        <mxCell id="rU81zAQizeKF4AsqApup-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Times New Roman&quot;&gt;Prosedur Pembaruan Jadwal Event&lt;/font&gt;" vertex="1">
+          <mxGeometry height="900" width="960" x="110" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="rU81zAQizeKF4AsqApup-2" parent="rU81zAQizeKF4AsqApup-1" style="swimlane;whiteSpace=wrap;html=1;" value="Vertical Container" vertex="1">
-          <mxGeometry height="880" width="270" y="20" as="geometry" />
+        <mxCell id="rU81zAQizeKF4AsqApup-2" parent="rU81zAQizeKF4AsqApup-1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Panitia Event" vertex="1">
+          <mxGeometry height="880" width="240" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="rU81zAQizeKF4AsqApup-3" parent="rU81zAQizeKF4AsqApup-1" style="swimlane;whiteSpace=wrap;html=1;" value="Vertical Container" vertex="1">
-          <mxGeometry height="880" width="270" x="270" y="20" as="geometry" />
+        <mxCell id="SOrZXlJ9l_FaC0hkQrwN-1" parent="rU81zAQizeKF4AsqApup-1" style="swimlane;whiteSpace=wrap;html=1;" value="Bagian Kemahasiswaan" vertex="1">
+          <mxGeometry height="880" width="240" x="240" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="rU81zAQizeKF4AsqApup-4" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Vertical Container" vertex="1">
-          <mxGeometry height="880" width="270" x="650" y="90" as="geometry" />
+        <mxCell id="SOrZXlJ9l_FaC0hkQrwN-2" parent="rU81zAQizeKF4AsqApup-1" style="swimlane;whiteSpace=wrap;html=1;" value="Wakil Direktur Kemahasiswaan" vertex="1">
+          <mxGeometry height="880" width="240" x="480" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SOrZXlJ9l_FaC0hkQrwN-3" parent="rU81zAQizeKF4AsqApup-1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" value="Humas Kampus" vertex="1">
+          <mxGeometry height="880" width="240" x="720" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
